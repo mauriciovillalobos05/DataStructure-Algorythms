@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/LENOVO/Desktop/DA",
-      "program": "c:/Users/LENOVO/Desktop/DA/build/Debug/outDebug",
+      "cwd": "c:/Users/LENOVO/Desktop/DA/Merge",
+      "program": "c:/Users/LENOVO/Desktop/DA/Merge/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -17,7 +17,7 @@ int binarySearch(const std::vector<int>& vec, int target) {
         }
     }
 
-    return -1;
+    return -1; // Si el target no se encuentra en el vector
 }
 
 int main() {
