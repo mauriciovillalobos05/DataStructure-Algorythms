@@ -1,6 +1,6 @@
 #include <iostream>
 
-void increasePrice(double * price){
+void increasePrice(double* price){
     *price*=1.2;
 }
 

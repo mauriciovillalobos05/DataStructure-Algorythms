@@ -8,10 +8,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/LENOVO/Desktop/DA",
-      "program": "c:/Users/LENOVO/Desktop/DA/build/Debug/outDebug",
+      "cwd": "c:/Users/LENOVO/Desktop/DA/Lineales",
+      "program": "c:/Users/LENOVO/Desktop/DA/Lineales/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
