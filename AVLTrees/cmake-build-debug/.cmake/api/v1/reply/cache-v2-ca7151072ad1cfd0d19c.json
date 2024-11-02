@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees/cmake-build-debug"
+			"value" : "C:/Users/maugv/Desktop/DA/AVLTrees/cmake-build-debug"
 		},
 		{
 			"name" : "AVLTrees_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees"
+			"value" : "C:/Users/maugv/Desktop/DA/AVLTrees"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/maugv/Desktop/C++/AVLTrees/cmake-build-debug"
+			"value" : "c:/Users/maugv/Desktop/DA/AVLTrees/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -611,7 +611,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/maugv/Desktop/DA/AVLTrees/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -683,7 +683,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees"
+			"value" : "C:/Users/maugv/Desktop/DA/AVLTrees"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",

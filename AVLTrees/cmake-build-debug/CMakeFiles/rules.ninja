@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\maugv\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\maugv\Desktop\C++\AVLTrees -BC:\Users\maugv\Desktop\C++\AVLTrees\cmake-build-debug
+  command = C:\Users\maugv\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\maugv\Desktop\DA\AVLTrees -BC:\Users\maugv\Desktop\DA\AVLTrees\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
