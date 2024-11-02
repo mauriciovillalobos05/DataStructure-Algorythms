@@ -1,23 +1,4 @@
 # ninja log v6
-12	1127	7501360736719737	CMakeFiles/Trees.dir/BinaryTree.cpp.obj	9c4ae6d9c8957be
-6	1138	7501360736659110	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-22	144	7501360958313868	CMakeFiles/Trees.dir/BinaryTree.cpp.obj	9c4ae6d9c8957be
-16	810	7501360958263994	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-23	1306	7501361317643633	CMakeFiles/Trees.dir/BinaryTree.cpp.obj	9c4ae6d9c8957be
-18	1308	7501361317582877	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-9	871	7501363060681691	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-15	883	7501363060741527	CMakeFiles/Trees.dir/BinaryTree.cpp.obj	9c4ae6d9c8957be
-886	1079	7501363069448247	Trees.exe	39684b22f1521f45
-133	1798	7501367315643234	CMakeFiles/Trees.dir/BinaryTree.cpp.obj	9c4ae6d9c8957be
-77	1850	7501367315084733	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-1851	2046	7501367332818516	Trees.exe	39684b22f1521f45
-18	827	7501367602978127	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-15	800	7501367657774129	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-801	943	7501367665622635	Trees.exe	39684b22f1521f45
-20	744	7501367820388091	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
-745	881	7501367827642415	Trees.exe	39684b22f1521f45
-36	758	7501368331058808	CMakeFiles/Trees.dir/BinaryTree.cpp.obj	9c4ae6d9c8957be
-759	895	7501368338285607	Trees.exe	39684b22f1521f45
-9	856	7501371308455859	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
 15	882	7501371308506875	CMakeFiles/Trees.dir/BinaryTree.cpp.obj	9c4ae6d9c8957be
+9	856	7501371308455859	CMakeFiles/Trees.dir/main.cpp.obj	5075702afae3185c
 882	1024	7501371317176472	Trees.exe	39684b22f1521f45

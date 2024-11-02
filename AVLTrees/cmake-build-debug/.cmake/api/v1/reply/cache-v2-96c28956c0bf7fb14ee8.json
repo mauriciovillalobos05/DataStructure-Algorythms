@@ -2,6 +2,42 @@
 	"entries" : 
 	[
 		{
+			"name" : "AVLTrees_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees/cmake-build-debug"
+		},
+		{
+			"name" : "AVLTrees_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "AVLTrees_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees"
+		},
+		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -55,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/maugv/Desktop/C++/Trees/cmake-build-debug"
+			"value" : "c:/Users/maugv/Desktop/C++/AVLTrees/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +611,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/Trees/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +683,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/maugv/Desktop/C++/Trees"
+			"value" : "C:/Users/maugv/Desktop/C++/AVLTrees"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +695,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Trees"
+			"value" : "C:/Program Files (x86)/AVLTrees"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +911,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Trees"
+			"value" : "AVLTrees"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1268,42 +1304,6 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
-		},
-		{
-			"name" : "Trees_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/Trees/cmake-build-debug"
-		},
-		{
-			"name" : "Trees_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Trees_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/Trees"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
