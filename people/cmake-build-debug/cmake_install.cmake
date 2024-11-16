@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/maugv/Desktop/DA/matricesAdyacentes
+# Install script for directory: C:/Users/maugv/Desktop/C++/people
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/matricesAdyacentes")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/people")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/maugv/Desktop/DA/matricesAdyacentes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/maugv/Desktop/C++/people/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

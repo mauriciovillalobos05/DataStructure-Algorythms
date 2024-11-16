@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/maugv/Desktop/C++/matricesAdyacentes/cmake-build-debug"
+			"value" : "c:/Users/maugv/Desktop/C++/people/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/matricesAdyacentes/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/maugv/Desktop/C++/people/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/maugv/Desktop/C++/matricesAdyacentes"
+			"value" : "C:/Users/maugv/Desktop/C++/people"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/matricesAdyacentes"
+			"value" : "C:/Program Files (x86)/people"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "matricesAdyacentes"
+			"value" : "people"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1282,7 +1282,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "matricesAdyacentes_BINARY_DIR",
+			"name" : "people_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1291,10 +1291,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/matricesAdyacentes/cmake-build-debug"
+			"value" : "C:/Users/maugv/Desktop/C++/people/cmake-build-debug"
 		},
 		{
-			"name" : "matricesAdyacentes_IS_TOP_LEVEL",
+			"name" : "people_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1306,7 +1306,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "matricesAdyacentes_SOURCE_DIR",
+			"name" : "people_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/maugv/Desktop/C++/matricesAdyacentes"
+			"value" : "C:/Users/maugv/Desktop/C++/people"
 		}
 	],
 	"kind" : "cache",
